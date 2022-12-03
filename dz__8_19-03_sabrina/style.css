@@ -1,0 +1,9 @@
+.block {
+    border: 1px solid red;
+}
+
+.kingwrapper{
+    width: 100vh;
+    height: 100vh;
+    justify-content: center;
+}
